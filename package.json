@@ -1,0 +1,21 @@
+{
+  "name": "20230402_typescript_chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "module": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "2.6.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@types/node-fetch": "2.x"
+  }
+}
